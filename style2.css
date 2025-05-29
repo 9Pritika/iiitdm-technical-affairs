@@ -60,7 +60,8 @@ footer{
 .clubs-container{
     display: flex;
     flex-wrap: wrap;
-    justify-content: space-evenly;
+    justify-content:center;
+    gap:30px;
 }
 .club-card{
     width:300px;
