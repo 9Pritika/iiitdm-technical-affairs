@@ -2,6 +2,10 @@
     margin:0;
     padding:0;
 }
+body{
+    	background-color: rgba(240, 248, 255, 1);
+}
+
 #navbar{
     background-color: #0f1111;
     color:white;
@@ -90,7 +94,7 @@ b{
     margin-left:16px;
 }
 footer{
-    background-color:rgba(255,192,203,0.5);
+    background-color: #f9c7d3;
     display: flex;
     justify-content: flex-end;
     align-items:center;
@@ -118,12 +122,14 @@ footer{
 }
 .councils {
   padding: 50px;
-  background-color: #f9f9f9;
 }
 .council-text h3{
     margin-bottom: 10px;
 }
 ul{
+    margin-bottom: 10px;
+}
+.council-text h2{
     margin-bottom: 10px;
 }
 
